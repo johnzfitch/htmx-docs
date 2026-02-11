@@ -1,0 +1,6 @@
+# Raw fetch cache and intermediate crawler outputs
+fetch/
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
