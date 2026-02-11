@@ -1,0 +1,2152 @@
+{
+  "total_requested_urls": 238,
+  "mapped_urls": 238,
+  "converted_markdown": 238,
+  "conversion_failures": 0,
+  "unresolved": [],
+  "failed": [],
+  "items": [
+    {
+      "url": "https://github.com/bigskysoftware/fixi/blob/master/README.md",
+      "fetch_rel": "fetch/github_com_d5234ffe.html",
+      "hash": "d5234ffe",
+      "category": "github/fixi",
+      "dst_rel": "github/fixi/blob-master-readme-md__d5234ffe.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_d5234ffe.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/fixi/blob-master-readme-md__d5234ffe.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/fixi",
+      "fetch_rel": "fetch/github_com_630059cb.html",
+      "hash": "630059cb",
+      "category": "github/fixi",
+      "dst_rel": "github/fixi/repo-home__630059cb.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_630059cb.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/fixi/repo-home__630059cb.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/CONTRIBUTING.md",
+      "fetch_rel": "fetch/github_com_25905f5c.html",
+      "hash": "25905f5c",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-contributing-md__25905f5c.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_25905f5c.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-contributing-md__25905f5c.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/README.md",
+      "fetch_rel": "fetch/github_com_7d476335.html",
+      "hash": "7d476335",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-readme-md__7d476335.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_7d476335.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-readme-md__7d476335.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/ajax-header/README.md",
+      "fetch_rel": "fetch/github_com_94f9574f.html",
+      "hash": "94f9574f",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-ajax-header-readme-md__94f9574f.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_94f9574f.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-ajax-header-readme-md__94f9574f.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/alpine-morph/README.md",
+      "fetch_rel": "fetch/github_com_f4f1ea64.html",
+      "hash": "f4f1ea64",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-alpine-morph-readme-md__f4f1ea64.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_f4f1ea64.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-alpine-morph-readme-md__f4f1ea64.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/class-tools/README.md",
+      "fetch_rel": "fetch/github_com_1b663f0e.html",
+      "hash": "1b663f0e",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-class-tools-readme-md__1b663f0e.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_1b663f0e.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-class-tools-readme-md__1b663f0e.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/client-side-templates/README.md",
+      "fetch_rel": "fetch/github_com_5b11fc3f.html",
+      "hash": "5b11fc3f",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-client-side-templates-readme-md__5b11fc3f.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_5b11fc3f.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-client-side-templates-readme-md__5b11fc3f.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/debug/README.md",
+      "fetch_rel": "fetch/github_com_be7fa0db.html",
+      "hash": "be7fa0db",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-debug-readme-md__be7fa0db.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_be7fa0db.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-debug-readme-md__be7fa0db.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/disable-element/README.md",
+      "fetch_rel": "fetch/github_com_70f031b8.html",
+      "hash": "70f031b8",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-disable-element-readme-md__70f031b8.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_70f031b8.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-disable-element-readme-md__70f031b8.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/event-header/README.md",
+      "fetch_rel": "fetch/github_com_f5dc5bc0.html",
+      "hash": "f5dc5bc0",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-event-header-readme-md__f5dc5bc0.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_f5dc5bc0.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-event-header-readme-md__f5dc5bc0.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/include-vals/README.md",
+      "fetch_rel": "fetch/github_com_b55b832b.html",
+      "hash": "b55b832b",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-include-vals-readme-md__b55b832b.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_b55b832b.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-include-vals-readme-md__b55b832b.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/json-enc/README.md",
+      "fetch_rel": "fetch/github_com_3d4ac120.html",
+      "hash": "3d4ac120",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-json-enc-readme-md__3d4ac120.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_3d4ac120.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-json-enc-readme-md__3d4ac120.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/loading-states/README.md",
+      "fetch_rel": "fetch/github_com_10b3d646.html",
+      "hash": "10b3d646",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-loading-states-readme-md__10b3d646.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_10b3d646.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-loading-states-readme-md__10b3d646.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/morphdom-swap/README.md",
+      "fetch_rel": "fetch/github_com_a52712bc.html",
+      "hash": "a52712bc",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-morphdom-swap-readme-md__a52712bc.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_a52712bc.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-morphdom-swap-readme-md__a52712bc.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/multi-swap/README.md",
+      "fetch_rel": "fetch/github_com_3339b44d.html",
+      "hash": "3339b44d",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-multi-swap-readme-md__3339b44d.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_3339b44d.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-multi-swap-readme-md__3339b44d.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/path-deps/README.md",
+      "fetch_rel": "fetch/github_com_6e8a0b8d.html",
+      "hash": "6e8a0b8d",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-path-deps-readme-md__6e8a0b8d.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_6e8a0b8d.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-path-deps-readme-md__6e8a0b8d.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/path-params/README.md",
+      "fetch_rel": "fetch/github_com_c42e7f81.html",
+      "hash": "c42e7f81",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-path-params-readme-md__c42e7f81.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_c42e7f81.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-path-params-readme-md__c42e7f81.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/remove-me/README.md",
+      "fetch_rel": "fetch/github_com_e3acfc48.html",
+      "hash": "e3acfc48",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-remove-me-readme-md__e3acfc48.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_e3acfc48.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-remove-me-readme-md__e3acfc48.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/restored/README.md",
+      "fetch_rel": "fetch/github_com_44efeceb.html",
+      "hash": "44efeceb",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-restored-readme-md__44efeceb.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_44efeceb.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-restored-readme-md__44efeceb.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/sse/README.md",
+      "fetch_rel": "fetch/github_com_3edca80d.html",
+      "hash": "3edca80d",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-sse-readme-md__3edca80d.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_3edca80d.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-sse-readme-md__3edca80d.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/blob/main/src/ws/README.md",
+      "fetch_rel": "fetch/github_com_db1b9c9a.html",
+      "hash": "db1b9c9a",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/blob-main-src-ws-readme-md__db1b9c9a.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_db1b9c9a.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/blob-main-src-ws-readme-md__db1b9c9a.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions",
+      "fetch_rel": "fetch/github_com_2b782ad1.html",
+      "hash": "2b782ad1",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/repo-home__2b782ad1.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_2b782ad1.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/repo-home__2b782ad1.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx-extensions/tree/main/www",
+      "fetch_rel": "fetch/github_com_6d73ff06.html",
+      "hash": "6d73ff06",
+      "category": "github/htmx-extensions",
+      "dst_rel": "github/htmx-extensions/tree-main-www__6d73ff06.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_6d73ff06.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx-extensions/tree-main-www__6d73ff06.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx/blob/master/CHANGELOG.md",
+      "fetch_rel": "fetch/github_com_9ca3ff61.html",
+      "hash": "9ca3ff61",
+      "category": "github/htmx",
+      "dst_rel": "github/htmx/blob-master-changelog-md__9ca3ff61.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_9ca3ff61.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx/blob-master-changelog-md__9ca3ff61.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx/blob/master/CONTRIBUTING.md",
+      "fetch_rel": "fetch/github_com_574a0785.html",
+      "hash": "574a0785",
+      "category": "github/htmx",
+      "dst_rel": "github/htmx/blob-master-contributing-md__574a0785.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_574a0785.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx/blob-master-contributing-md__574a0785.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx/blob/master/LICENSE",
+      "fetch_rel": "fetch/github_com_6f808473.html",
+      "hash": "6f808473",
+      "category": "github/htmx",
+      "dst_rel": "github/htmx/blob-master-license__6f808473.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_6f808473.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx/blob-master-license__6f808473.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx/blob/master/README.md",
+      "fetch_rel": "fetch/github_com_6361b3d4.html",
+      "hash": "6361b3d4",
+      "category": "github/htmx",
+      "dst_rel": "github/htmx/blob-master-readme-md__6361b3d4.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_6361b3d4.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx/blob-master-readme-md__6361b3d4.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx/blob/master/SECURITY.md",
+      "fetch_rel": "fetch/github_com_11303513.html",
+      "hash": "11303513",
+      "category": "github/htmx",
+      "dst_rel": "github/htmx/blob-master-security-md__11303513.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_11303513.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx/blob-master-security-md__11303513.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx/blob/master/TESTING.md",
+      "fetch_rel": "fetch/github_com_15beddc1.html",
+      "hash": "15beddc1",
+      "category": "github/htmx",
+      "dst_rel": "github/htmx/blob-master-testing-md__15beddc1.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_15beddc1.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx/blob-master-testing-md__15beddc1.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx/blob/master/www/content/extensions/_index.md",
+      "fetch_rel": "fetch/github_com_e66284f4.html",
+      "hash": "e66284f4",
+      "category": "github/htmx",
+      "dst_rel": "github/htmx/blob-master-www-content-extensions-index-md__e66284f4.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_e66284f4.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx/blob-master-www-content-extensions-index-md__e66284f4.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx",
+      "fetch_rel": "fetch/github_com_3a589c25.html",
+      "hash": "3a589c25",
+      "category": "github/htmx",
+      "dst_rel": "github/htmx/repo-home__3a589c25.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_3a589c25.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx/repo-home__3a589c25.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx/tree/master/www",
+      "fetch_rel": "fetch/github_com_29dd1e4b.html",
+      "hash": "29dd1e4b",
+      "category": "github/htmx",
+      "dst_rel": "github/htmx/tree-master-www__29dd1e4b.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_29dd1e4b.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/htmx/tree-master-www__29dd1e4b.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/hypermedia-systems-book/blob/main/LICENSE.txt",
+      "fetch_rel": "fetch/github_com_e66cc43f.html",
+      "hash": "e66cc43f",
+      "category": "github/hypermedia-systems-book",
+      "dst_rel": "github/hypermedia-systems-book/blob-main-license-txt__e66cc43f.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_e66cc43f.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/hypermedia-systems-book/blob-main-license-txt__e66cc43f.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/hypermedia-systems-book",
+      "fetch_rel": "fetch/github_com_f8364d53.html",
+      "hash": "f8364d53",
+      "category": "github/hypermedia-systems-book",
+      "dst_rel": "github/hypermedia-systems-book/repo-home__f8364d53.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_f8364d53.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/hypermedia-systems-book/repo-home__f8364d53.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/hypermedia-systems-book/tree/main/www",
+      "fetch_rel": "fetch/github_com_22349566.html",
+      "hash": "22349566",
+      "category": "github/hypermedia-systems-book",
+      "dst_rel": "github/hypermedia-systems-book/tree-main-www__22349566.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_22349566.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/hypermedia-systems-book/tree-main-www__22349566.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/_hyperscript/blob/master/LICENSE",
+      "fetch_rel": "fetch/github_com_acf3e96c.html",
+      "hash": "acf3e96c",
+      "category": "github/hyperscript",
+      "dst_rel": "github/hyperscript/blob-master-license__acf3e96c.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_acf3e96c.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/hyperscript/blob-master-license__acf3e96c.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/_hyperscript/blob/master/README.md",
+      "fetch_rel": "fetch/github_com_dfdeb833.html",
+      "hash": "dfdeb833",
+      "category": "github/hyperscript",
+      "dst_rel": "github/hyperscript/blob-master-readme-md__dfdeb833.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_dfdeb833.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/hyperscript/blob-master-readme-md__dfdeb833.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/_hyperscript/blob/master/TODO.md",
+      "fetch_rel": "fetch/github_com_a45682e8.html",
+      "hash": "a45682e8",
+      "category": "github/hyperscript",
+      "dst_rel": "github/hyperscript/blob-master-todo-md__a45682e8.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_a45682e8.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/hyperscript/blob-master-todo-md__a45682e8.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/_hyperscript",
+      "fetch_rel": "fetch/github_com_e71d21f0.html",
+      "hash": "e71d21f0",
+      "category": "github/hyperscript",
+      "dst_rel": "github/hyperscript/repo-home__e71d21f0.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_e71d21f0.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/hyperscript/repo-home__e71d21f0.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/_hyperscript/tree/dev/www",
+      "fetch_rel": "fetch/github_com_ef4884c5.html",
+      "hash": "ef4884c5",
+      "category": "github/hyperscript",
+      "dst_rel": "github/hyperscript/tree-dev-www__ef4884c5.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_ef4884c5.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/hyperscript/tree-dev-www__ef4884c5.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/_hyperscript/tree/master/www",
+      "fetch_rel": "fetch/github_com_d095b633.html",
+      "hash": "d095b633",
+      "category": "github/hyperscript",
+      "dst_rel": "github/hyperscript/tree-master-www__d095b633.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_d095b633.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/hyperscript/tree-master-www__d095b633.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/idiomorph/blob/main/CHANGELOG.md",
+      "fetch_rel": "fetch/github_com_117ebc2d.html",
+      "hash": "117ebc2d",
+      "category": "github/idiomorph",
+      "dst_rel": "github/idiomorph/blob-main-changelog-md__117ebc2d.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_117ebc2d.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/idiomorph/blob-main-changelog-md__117ebc2d.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/idiomorph/blob/main/CONCEPT.md",
+      "fetch_rel": "fetch/github_com_5a33308a.html",
+      "hash": "5a33308a",
+      "category": "github/idiomorph",
+      "dst_rel": "github/idiomorph/blob-main-concept-md__5a33308a.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_5a33308a.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/idiomorph/blob-main-concept-md__5a33308a.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/idiomorph/blob/main/LICENSE",
+      "fetch_rel": "fetch/github_com_943a3f65.html",
+      "hash": "943a3f65",
+      "category": "github/idiomorph",
+      "dst_rel": "github/idiomorph/blob-main-license__943a3f65.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_943a3f65.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/idiomorph/blob-main-license__943a3f65.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/idiomorph/blob/main/PERFORMANCE.md",
+      "fetch_rel": "fetch/github_com_4c4f4eec.html",
+      "hash": "4c4f4eec",
+      "category": "github/idiomorph",
+      "dst_rel": "github/idiomorph/blob-main-performance-md__4c4f4eec.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_4c4f4eec.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/idiomorph/blob-main-performance-md__4c4f4eec.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/idiomorph/blob/main/README.md",
+      "fetch_rel": "fetch/github_com_c3c5ca3e.html",
+      "hash": "c3c5ca3e",
+      "category": "github/idiomorph",
+      "dst_rel": "github/idiomorph/blob-main-readme-md__c3c5ca3e.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_c3c5ca3e.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/idiomorph/blob-main-readme-md__c3c5ca3e.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/idiomorph/blob/main/RELEASE.md",
+      "fetch_rel": "fetch/github_com_8b7ae2da.html",
+      "hash": "8b7ae2da",
+      "category": "github/idiomorph",
+      "dst_rel": "github/idiomorph/blob-main-release-md__8b7ae2da.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_8b7ae2da.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/idiomorph/blob-main-release-md__8b7ae2da.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/idiomorph/blob/main/ROADMAP.md",
+      "fetch_rel": "fetch/github_com_e81c0bf2.html",
+      "hash": "e81c0bf2",
+      "category": "github/idiomorph",
+      "dst_rel": "github/idiomorph/blob-main-roadmap-md__e81c0bf2.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_e81c0bf2.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/idiomorph/blob-main-roadmap-md__e81c0bf2.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/idiomorph/blob/main/TESTING.md",
+      "fetch_rel": "fetch/github_com_af0ba3db.html",
+      "hash": "af0ba3db",
+      "category": "github/idiomorph",
+      "dst_rel": "github/idiomorph/blob-main-testing-md__af0ba3db.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_af0ba3db.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/idiomorph/blob-main-testing-md__af0ba3db.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/idiomorph/",
+      "fetch_rel": "fetch/github_com_003091ec.html",
+      "hash": "003091ec",
+      "category": "github/idiomorph",
+      "dst_rel": "github/idiomorph/repo-home__003091ec.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_003091ec.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/idiomorph/repo-home__003091ec.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/idiomorph",
+      "fetch_rel": "fetch/github_com_d2ff67c1.html",
+      "hash": "d2ff67c1",
+      "category": "github/idiomorph",
+      "dst_rel": "github/idiomorph/repo-home__d2ff67c1.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_d2ff67c1.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/idiomorph/repo-home__d2ff67c1.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/intercooler-js/blob/master/LICENSE",
+      "fetch_rel": "fetch/github_com_195f6279.html",
+      "hash": "195f6279",
+      "category": "github/intercooler-js",
+      "dst_rel": "github/intercooler-js/blob-master-license__195f6279.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_195f6279.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/intercooler-js/blob-master-license__195f6279.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/intercooler-js/blob/master/README.md",
+      "fetch_rel": "fetch/github_com_8d445f9c.html",
+      "hash": "8d445f9c",
+      "category": "github/intercooler-js",
+      "dst_rel": "github/intercooler-js/blob-master-readme-md__8d445f9c.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_8d445f9c.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/intercooler-js/blob-master-readme-md__8d445f9c.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/intercooler-js/blob/master/RELEASE-CHECKLIST.md",
+      "fetch_rel": "fetch/github_com_cb656c9e.html",
+      "hash": "cb656c9e",
+      "category": "github/intercooler-js",
+      "dst_rel": "github/intercooler-js/blob-master-release-checklist-md__cb656c9e.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_cb656c9e.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/intercooler-js/blob-master-release-checklist-md__cb656c9e.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/intercooler-js",
+      "fetch_rel": "fetch/github_com_8ab238ef.html",
+      "hash": "8ab238ef",
+      "category": "github/intercooler-js",
+      "dst_rel": "github/intercooler-js/repo-home__8ab238ef.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_8ab238ef.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/intercooler-js/repo-home__8ab238ef.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/intercooler-js/tree/master/www",
+      "fetch_rel": "fetch/github_com_c38cdc12.html",
+      "hash": "c38cdc12",
+      "category": "github/intercooler-js",
+      "dst_rel": "github/intercooler-js/tree-master-www__c38cdc12.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_c38cdc12.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/intercooler-js/tree-master-www__c38cdc12.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/intercooler-js/wiki",
+      "fetch_rel": "fetch/github_com_1ca48046.html",
+      "hash": "1ca48046",
+      "category": "github/intercooler-js",
+      "dst_rel": "github/intercooler-js/wiki-home__1ca48046.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_1ca48046.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/intercooler-js/wiki-home__1ca48046.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/missing/blob/dev/CHANGELOG.md",
+      "fetch_rel": "fetch/github_com_1c166ac7.html",
+      "hash": "1c166ac7",
+      "category": "github/missing",
+      "dst_rel": "github/missing/blob-dev-changelog-md__1c166ac7.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_1c166ac7.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/missing/blob-dev-changelog-md__1c166ac7.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/missing/blob/dev/CONTRIBUTING.md",
+      "fetch_rel": "fetch/github_com_da09dcdb.html",
+      "hash": "da09dcdb",
+      "category": "github/missing",
+      "dst_rel": "github/missing/blob-dev-contributing-md__da09dcdb.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_da09dcdb.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/missing/blob-dev-contributing-md__da09dcdb.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/missing/blob/dev/JOURNAL.md",
+      "fetch_rel": "fetch/github_com_7aee4ce4.html",
+      "hash": "7aee4ce4",
+      "category": "github/missing",
+      "dst_rel": "github/missing/blob-dev-journal-md__7aee4ce4.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_7aee4ce4.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/missing/blob-dev-journal-md__7aee4ce4.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/missing/blob/dev/LICENSE",
+      "fetch_rel": "fetch/github_com_be8b82f3.html",
+      "hash": "be8b82f3",
+      "category": "github/missing",
+      "dst_rel": "github/missing/blob-dev-license__be8b82f3.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_be8b82f3.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/missing/blob-dev-license__be8b82f3.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/missing/blob/dev/README.md",
+      "fetch_rel": "fetch/github_com_50968280.html",
+      "hash": "50968280",
+      "category": "github/missing",
+      "dst_rel": "github/missing/blob-dev-readme-md__50968280.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_50968280.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/missing/blob-dev-readme-md__50968280.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/missing",
+      "fetch_rel": "fetch/github_com_5c7552b4.html",
+      "hash": "5c7552b4",
+      "category": "github/missing",
+      "dst_rel": "github/missing/repo-home__5c7552b4.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_5c7552b4.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/missing/repo-home__5c7552b4.md"
+    },
+    {
+      "url": "https://github.com/bigskysoftware/missing/tree/dev/www",
+      "fetch_rel": "fetch/github_com_c1dd5b3e.html",
+      "hash": "c1dd5b3e",
+      "category": "github/missing",
+      "dst_rel": "github/missing/tree-dev-www__c1dd5b3e.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/github_com_c1dd5b3e.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/github/missing/tree-dev-www__c1dd5b3e.md"
+    },
+    {
+      "url": "https://htmx.org/api/",
+      "fetch_rel": "fetch/htmx_org_0d275230.html",
+      "hash": "0d275230",
+      "category": "htmx/api",
+      "dst_rel": "htmx/api/index__0d275230.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_0d275230.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/api/index__0d275230.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-boost/",
+      "fetch_rel": "fetch/htmx_org_b30737bd.html",
+      "hash": "b30737bd",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-boost__b30737bd.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_b30737bd.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-boost__b30737bd.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-boost",
+      "fetch_rel": "fetch/htmx_org_d6638722.html",
+      "hash": "d6638722",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-boost__d6638722.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_d6638722.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-boost__d6638722.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-confirm/",
+      "fetch_rel": "fetch/htmx_org_eb7a9963.html",
+      "hash": "eb7a9963",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-confirm__eb7a9963.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_eb7a9963.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-confirm__eb7a9963.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-delete/",
+      "fetch_rel": "fetch/htmx_org_e5d100e3.html",
+      "hash": "e5d100e3",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-delete__e5d100e3.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_e5d100e3.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-delete__e5d100e3.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-disable/",
+      "fetch_rel": "fetch/htmx_org_3823a911.html",
+      "hash": "3823a911",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-disable__3823a911.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_3823a911.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-disable__3823a911.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-disable",
+      "fetch_rel": "fetch/htmx_org_fc1f9e3c.html",
+      "hash": "fc1f9e3c",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-disable__fc1f9e3c.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_fc1f9e3c.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-disable__fc1f9e3c.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-disabled-elt/",
+      "fetch_rel": "fetch/htmx_org_d9629999.html",
+      "hash": "d9629999",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-disabled-elt__d9629999.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_d9629999.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-disabled-elt__d9629999.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-disinherit/",
+      "fetch_rel": "fetch/htmx_org_c0f0f88f.html",
+      "hash": "c0f0f88f",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-disinherit__c0f0f88f.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_c0f0f88f.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-disinherit__c0f0f88f.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-encoding/",
+      "fetch_rel": "fetch/htmx_org_c2b553ff.html",
+      "hash": "c2b553ff",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-encoding__c2b553ff.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_c2b553ff.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-encoding__c2b553ff.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-ext/",
+      "fetch_rel": "fetch/htmx_org_ba39d387.html",
+      "hash": "ba39d387",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-ext__ba39d387.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_ba39d387.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-ext__ba39d387.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-get/",
+      "fetch_rel": "fetch/htmx_org_119edf64.html",
+      "hash": "119edf64",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-get__119edf64.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_119edf64.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-get__119edf64.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-headers/",
+      "fetch_rel": "fetch/htmx_org_f078b009.html",
+      "hash": "f078b009",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-headers__f078b009.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_f078b009.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-headers__f078b009.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-history-elt/",
+      "fetch_rel": "fetch/htmx_org_e60b9488.html",
+      "hash": "e60b9488",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-history-elt__e60b9488.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_e60b9488.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-history-elt__e60b9488.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-history/",
+      "fetch_rel": "fetch/htmx_org_7ac58dd0.html",
+      "hash": "7ac58dd0",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-history__7ac58dd0.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_7ac58dd0.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-history__7ac58dd0.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-history",
+      "fetch_rel": "fetch/htmx_org_8f7d0a4a.html",
+      "hash": "8f7d0a4a",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-history__8f7d0a4a.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_8f7d0a4a.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-history__8f7d0a4a.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-include/",
+      "fetch_rel": "fetch/htmx_org_6d3accb7.html",
+      "hash": "6d3accb7",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-include__6d3accb7.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_6d3accb7.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-include__6d3accb7.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-indicator/",
+      "fetch_rel": "fetch/htmx_org_ab8294af.html",
+      "hash": "ab8294af",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-indicator__ab8294af.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_ab8294af.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-indicator__ab8294af.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-inherit/",
+      "fetch_rel": "fetch/htmx_org_3798a399.html",
+      "hash": "3798a399",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-inherit__3798a399.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_3798a399.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-inherit__3798a399.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-on/",
+      "fetch_rel": "fetch/htmx_org_294777d1.html",
+      "hash": "294777d1",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-on__294777d1.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_294777d1.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-on__294777d1.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-on",
+      "fetch_rel": "fetch/htmx_org_fe9e4298.html",
+      "hash": "fe9e4298",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-on__fe9e4298.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_fe9e4298.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-on__fe9e4298.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-params/",
+      "fetch_rel": "fetch/htmx_org_41c926a2.html",
+      "hash": "41c926a2",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-params__41c926a2.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_41c926a2.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-params__41c926a2.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-params",
+      "fetch_rel": "fetch/htmx_org_b84a7ba5.html",
+      "hash": "b84a7ba5",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-params__b84a7ba5.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_b84a7ba5.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-params__b84a7ba5.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-patch/",
+      "fetch_rel": "fetch/htmx_org_223b661e.html",
+      "hash": "223b661e",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-patch__223b661e.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_223b661e.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-patch__223b661e.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-post/",
+      "fetch_rel": "fetch/htmx_org_650ebf90.html",
+      "hash": "650ebf90",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-post__650ebf90.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_650ebf90.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-post__650ebf90.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-post",
+      "fetch_rel": "fetch/htmx_org_f1cf381d.html",
+      "hash": "f1cf381d",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-post__f1cf381d.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_f1cf381d.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-post__f1cf381d.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-preserve/",
+      "fetch_rel": "fetch/htmx_org_ee20faa7.html",
+      "hash": "ee20faa7",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-preserve__ee20faa7.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_ee20faa7.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-preserve__ee20faa7.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-prompt/",
+      "fetch_rel": "fetch/htmx_org_52b2c61a.html",
+      "hash": "52b2c61a",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-prompt__52b2c61a.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_52b2c61a.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-prompt__52b2c61a.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-push-url/",
+      "fetch_rel": "fetch/htmx_org_ee3603fc.html",
+      "hash": "ee3603fc",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-push-url__ee3603fc.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_ee3603fc.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-push-url__ee3603fc.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-put/",
+      "fetch_rel": "fetch/htmx_org_a9b831b1.html",
+      "hash": "a9b831b1",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-put__a9b831b1.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_a9b831b1.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-put__a9b831b1.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-replace-url/",
+      "fetch_rel": "fetch/htmx_org_c1979717.html",
+      "hash": "c1979717",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-replace-url__c1979717.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_c1979717.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-replace-url__c1979717.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-request/",
+      "fetch_rel": "fetch/htmx_org_5cac3af3.html",
+      "hash": "5cac3af3",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-request__5cac3af3.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_5cac3af3.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-request__5cac3af3.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-select-oob/",
+      "fetch_rel": "fetch/htmx_org_5b275e78.html",
+      "hash": "5b275e78",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-select-oob__5b275e78.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_5b275e78.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-select-oob__5b275e78.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-select/",
+      "fetch_rel": "fetch/htmx_org_31e61cd0.html",
+      "hash": "31e61cd0",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-select__31e61cd0.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_31e61cd0.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-select__31e61cd0.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-sse/",
+      "fetch_rel": "fetch/htmx_org_569ef3d5.html",
+      "hash": "569ef3d5",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-sse__569ef3d5.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_569ef3d5.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-sse__569ef3d5.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-swap-oob/",
+      "fetch_rel": "fetch/htmx_org_d2e95fa5.html",
+      "hash": "d2e95fa5",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-swap-oob__d2e95fa5.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_d2e95fa5.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-swap-oob__d2e95fa5.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-swap/",
+      "fetch_rel": "fetch/htmx_org_c02dbf6f.html",
+      "hash": "c02dbf6f",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-swap__c02dbf6f.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_c02dbf6f.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-swap__c02dbf6f.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-swap",
+      "fetch_rel": "fetch/htmx_org_e1e7f42f.html",
+      "hash": "e1e7f42f",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-swap__e1e7f42f.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_e1e7f42f.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-swap__e1e7f42f.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-sync/",
+      "fetch_rel": "fetch/htmx_org_339efa84.html",
+      "hash": "339efa84",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-sync__339efa84.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_339efa84.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-sync__339efa84.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-target",
+      "fetch_rel": "fetch/htmx_org_808eb473.html",
+      "hash": "808eb473",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-target__808eb473.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_808eb473.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-target__808eb473.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-target/",
+      "fetch_rel": "fetch/htmx_org_97f92a50.html",
+      "hash": "97f92a50",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-target__97f92a50.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_97f92a50.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-target__97f92a50.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-trigger/",
+      "fetch_rel": "fetch/htmx_org_48e91b01.html",
+      "hash": "48e91b01",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-trigger__48e91b01.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_48e91b01.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-trigger__48e91b01.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-trigger",
+      "fetch_rel": "fetch/htmx_org_8a68e7ab.html",
+      "hash": "8a68e7ab",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-trigger__8a68e7ab.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_8a68e7ab.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-trigger__8a68e7ab.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-validate/",
+      "fetch_rel": "fetch/htmx_org_8069e9ad.html",
+      "hash": "8069e9ad",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-validate__8069e9ad.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_8069e9ad.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-validate__8069e9ad.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-vals/",
+      "fetch_rel": "fetch/htmx_org_c05ceb2d.html",
+      "hash": "c05ceb2d",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-vals__c05ceb2d.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_c05ceb2d.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-vals__c05ceb2d.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-vars/",
+      "fetch_rel": "fetch/htmx_org_ae3d7ba9.html",
+      "hash": "ae3d7ba9",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-vars__ae3d7ba9.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_ae3d7ba9.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-vars__ae3d7ba9.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/hx-ws/",
+      "fetch_rel": "fetch/htmx_org_5f9f8840.html",
+      "hash": "5f9f8840",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/hx-ws__5f9f8840.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_5f9f8840.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/hx-ws__5f9f8840.md"
+    },
+    {
+      "url": "https://htmx.org/attributes/",
+      "fetch_rel": "fetch/htmx_org_05318e41.html",
+      "hash": "05318e41",
+      "category": "htmx/attributes",
+      "dst_rel": "htmx/attributes/index__05318e41.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_05318e41.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/attributes/index__05318e41.md"
+    },
+    {
+      "url": "https://htmx.org/docs",
+      "fetch_rel": "fetch/htmx_org_b4e1397e.html",
+      "hash": "b4e1397e",
+      "category": "htmx/docs",
+      "dst_rel": "htmx/docs/index__b4e1397e.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_b4e1397e.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/docs/index__b4e1397e.md"
+    },
+    {
+      "url": "https://htmx.org/docs/",
+      "fetch_rel": "fetch/htmx_org_dadb0a55.html",
+      "hash": "dadb0a55",
+      "category": "htmx/docs",
+      "dst_rel": "htmx/docs/index__dadb0a55.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_dadb0a55.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/docs/index__dadb0a55.md"
+    },
+    {
+      "url": "https://htmx.org/essays/10-tips-for-ssr-hda-apps/",
+      "fetch_rel": "fetch/htmx_org_3447e3b5.html",
+      "hash": "3447e3b5",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/10-tips-for-ssr-hda-apps__3447e3b5.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_3447e3b5.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/10-tips-for-ssr-hda-apps__3447e3b5.md"
+    },
+    {
+      "url": "https://htmx.org/essays/a-real-world-nextjs-to-htmx-port/",
+      "fetch_rel": "fetch/htmx_org_49b1fe6e.html",
+      "hash": "49b1fe6e",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/a-real-world-nextjs-to-htmx-port__49b1fe6e.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_49b1fe6e.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/a-real-world-nextjs-to-htmx-port__49b1fe6e.md"
+    },
+    {
+      "url": "https://htmx.org/essays/a-real-world-react-to-htmx-port/",
+      "fetch_rel": "fetch/htmx_org_11818234.html",
+      "hash": "11818234",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/a-real-world-react-to-htmx-port__11818234.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_11818234.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/a-real-world-react-to-htmx-port__11818234.md"
+    },
+    {
+      "url": "https://htmx.org/essays/a-real-world-wasm-to-htmx-port/",
+      "fetch_rel": "fetch/htmx_org_94fa4fe1.html",
+      "hash": "94fa4fe1",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/a-real-world-wasm-to-htmx-port__94fa4fe1.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_94fa4fe1.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/a-real-world-wasm-to-htmx-port__94fa4fe1.md"
+    },
+    {
+      "url": "https://htmx.org/essays/a-response-to-rich-harris/",
+      "fetch_rel": "fetch/htmx_org_7482baf8.html",
+      "hash": "7482baf8",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/a-response-to-rich-harris__7482baf8.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_7482baf8.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/a-response-to-rich-harris__7482baf8.md"
+    },
+    {
+      "url": "https://htmx.org/essays/all",
+      "fetch_rel": "fetch/htmx_org_0c6baef1.html",
+      "hash": "0c6baef1",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/all__0c6baef1.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_0c6baef1.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/all__0c6baef1.md"
+    },
+    {
+      "url": "https://htmx.org/essays/all/",
+      "fetch_rel": "fetch/htmx_org_6fa30179.html",
+      "hash": "6fa30179",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/all__6fa30179.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_6fa30179.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/all__6fa30179.md"
+    },
+    {
+      "url": "https://htmx.org/essays/alternatives/",
+      "fetch_rel": "fetch/htmx_org_14535d2c.html",
+      "hash": "14535d2c",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/alternatives__14535d2c.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_14535d2c.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/alternatives__14535d2c.md"
+    },
+    {
+      "url": "https://htmx.org/essays/another-real-world-react-to-htmx-port/",
+      "fetch_rel": "fetch/htmx_org_2d758f4b.html",
+      "hash": "2d758f4b",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/another-real-world-react-to-htmx-port__2d758f4b.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_2d758f4b.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/another-real-world-react-to-htmx-port__2d758f4b.md"
+    },
+    {
+      "url": "https://htmx.org/essays/architectural-sympathy/",
+      "fetch_rel": "fetch/htmx_org_f94056ea.html",
+      "hash": "f94056ea",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/architectural-sympathy__f94056ea.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_f94056ea.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/architectural-sympathy__f94056ea.md"
+    },
+    {
+      "url": "https://htmx.org/essays/codin-dirty/",
+      "fetch_rel": "fetch/htmx_org_5601fd25.html",
+      "hash": "5601fd25",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/codin-dirty__5601fd25.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_5601fd25.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/codin-dirty__5601fd25.md"
+    },
+    {
+      "url": "https://htmx.org/essays/complexity-budget/",
+      "fetch_rel": "fetch/htmx_org_2bb7c703.html",
+      "hash": "2bb7c703",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/complexity-budget__2bb7c703.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_2bb7c703.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/complexity-budget__2bb7c703.md"
+    },
+    {
+      "url": "https://htmx.org/essays/does-hypermedia-scale/",
+      "fetch_rel": "fetch/htmx_org_6f275aeb.html",
+      "hash": "6f275aeb",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/does-hypermedia-scale__6f275aeb.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_6f275aeb.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/does-hypermedia-scale__6f275aeb.md"
+    },
+    {
+      "url": "https://htmx.org/essays/future/",
+      "fetch_rel": "fetch/htmx_org_3f5b283b.html",
+      "hash": "3f5b283b",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/future__3f5b283b.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_3f5b283b.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/future__3f5b283b.md"
+    },
+    {
+      "url": "https://htmx.org/essays/hateoas",
+      "fetch_rel": "fetch/htmx_org_125daf81.html",
+      "hash": "125daf81",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/hateoas__125daf81.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_125daf81.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/hateoas__125daf81.md"
+    },
+    {
+      "url": "https://htmx.org/essays/hateoas/",
+      "fetch_rel": "fetch/htmx_org_599bc5eb.html",
+      "hash": "599bc5eb",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/hateoas__599bc5eb.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_599bc5eb.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/hateoas__599bc5eb.md"
+    },
+    {
+      "url": "https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/",
+      "fetch_rel": "fetch/htmx_org_dfaa95c4.html",
+      "hash": "dfaa95c4",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/how-did-rest-come-to-mean-the-opposite-of-rest__dfaa95c4.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_dfaa95c4.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/how-did-rest-come-to-mean-the-opposite-of-rest__dfaa95c4.md"
+    },
+    {
+      "url": "https://htmx.org/essays/htmx-sucks/",
+      "fetch_rel": "fetch/htmx_org_7aa3445c.html",
+      "hash": "7aa3445c",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/htmx-sucks__7aa3445c.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_7aa3445c.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/htmx-sucks__7aa3445c.md"
+    },
+    {
+      "url": "https://htmx.org/essays/hypermedia-apis-vs-data-apis/",
+      "fetch_rel": "fetch/htmx_org_27e46e4f.html",
+      "hash": "27e46e4f",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/hypermedia-apis-vs-data-apis__27e46e4f.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_27e46e4f.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/hypermedia-apis-vs-data-apis__27e46e4f.md"
+    },
+    {
+      "url": "https://htmx.org/essays/hypermedia-clients/",
+      "fetch_rel": "fetch/htmx_org_1a7a691d.html",
+      "hash": "1a7a691d",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/hypermedia-clients__1a7a691d.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_1a7a691d.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/hypermedia-clients__1a7a691d.md"
+    },
+    {
+      "url": "https://htmx.org/essays/hypermedia-driven-applications",
+      "fetch_rel": "fetch/htmx_org_8d423075.html",
+      "hash": "8d423075",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/hypermedia-driven-applications__8d423075.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_8d423075.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/hypermedia-driven-applications__8d423075.md"
+    },
+    {
+      "url": "https://htmx.org/essays/hypermedia-driven-applications/",
+      "fetch_rel": "fetch/htmx_org_b9fd94b2.html",
+      "hash": "b9fd94b2",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/hypermedia-driven-applications__b9fd94b2.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_b9fd94b2.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/hypermedia-driven-applications__b9fd94b2.md"
+    },
+    {
+      "url": "https://htmx.org/essays/hypermedia-friendly-scripting",
+      "fetch_rel": "fetch/htmx_org_20a5679a.html",
+      "hash": "20a5679a",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/hypermedia-friendly-scripting__20a5679a.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_20a5679a.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/hypermedia-friendly-scripting__20a5679a.md"
+    },
+    {
+      "url": "https://htmx.org/essays/hypermedia-friendly-scripting/",
+      "fetch_rel": "fetch/htmx_org_8094fb63.html",
+      "hash": "8094fb63",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/hypermedia-friendly-scripting__8094fb63.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_8094fb63.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/hypermedia-friendly-scripting__8094fb63.md"
+    },
+    {
+      "url": "https://htmx.org/essays/hypermedia-on-whatever-youd-like/",
+      "fetch_rel": "fetch/htmx_org_e6374c5d.html",
+      "hash": "e6374c5d",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/hypermedia-on-whatever-youd-like__e6374c5d.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_e6374c5d.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/hypermedia-on-whatever-youd-like__e6374c5d.md"
+    },
+    {
+      "url": "https://htmx.org/essays/",
+      "fetch_rel": "fetch/htmx_org_5ca2e5f2.html",
+      "hash": "5ca2e5f2",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/index__5ca2e5f2.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_5ca2e5f2.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/index__5ca2e5f2.md"
+    },
+    {
+      "url": "https://htmx.org/essays",
+      "fetch_rel": "fetch/htmx_org_f350c767.html",
+      "hash": "f350c767",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/index__f350c767.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_f350c767.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/index__f350c767.md"
+    },
+    {
+      "url": "https://htmx.org/essays/interviews/chris-wanstrath/",
+      "fetch_rel": "fetch/htmx_org_d162c3ad.html",
+      "hash": "d162c3ad",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/interviews-chris-wanstrath__d162c3ad.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_d162c3ad.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/interviews-chris-wanstrath__d162c3ad.md"
+    },
+    {
+      "url": "https://htmx.org/essays/interviews/henning-koch/",
+      "fetch_rel": "fetch/htmx_org_82ab04e0.html",
+      "hash": "82ab04e0",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/interviews-henning-koch__82ab04e0.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_82ab04e0.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/interviews-henning-koch__82ab04e0.md"
+    },
+    {
+      "url": "https://htmx.org/essays/interviews/leonard-richardson/",
+      "fetch_rel": "fetch/htmx_org_3eb42756.html",
+      "hash": "3eb42756",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/interviews-leonard-richardson__3eb42756.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_3eb42756.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/interviews-leonard-richardson__3eb42756.md"
+    },
+    {
+      "url": "https://htmx.org/essays/interviews/makinde-adeagbo/",
+      "fetch_rel": "fetch/htmx_org_e8bd9c34.html",
+      "hash": "e8bd9c34",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/interviews-makinde-adeagbo__e8bd9c34.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_e8bd9c34.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/interviews-makinde-adeagbo__e8bd9c34.md"
+    },
+    {
+      "url": "https://htmx.org/essays/interviews/mike-amundsen/",
+      "fetch_rel": "fetch/htmx_org_78374e32.html",
+      "hash": "78374e32",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/interviews-mike-amundsen__78374e32.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_78374e32.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/interviews-mike-amundsen__78374e32.md"
+    },
+    {
+      "url": "https://htmx.org/essays/is-htmx-another-javascript-framework/",
+      "fetch_rel": "fetch/htmx_org_76953e6f.html",
+      "hash": "76953e6f",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/is-htmx-another-javascript-framework__76953e6f.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_76953e6f.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/is-htmx-another-javascript-framework__76953e6f.md"
+    },
+    {
+      "url": "https://htmx.org/essays/locality-of-behaviour/",
+      "fetch_rel": "fetch/htmx_org_8578e7d6.html",
+      "hash": "8578e7d6",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/locality-of-behaviour__8578e7d6.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_8578e7d6.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/locality-of-behaviour__8578e7d6.md"
+    },
+    {
+      "url": "https://htmx.org/essays/locality-of-behaviour",
+      "fetch_rel": "fetch/htmx_org_95e6fdab.html",
+      "hash": "95e6fdab",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/locality-of-behaviour__95e6fdab.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_95e6fdab.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/locality-of-behaviour__95e6fdab.md"
+    },
+    {
+      "url": "https://htmx.org/essays/lore/",
+      "fetch_rel": "fetch/htmx_org_a44a7351.html",
+      "hash": "a44a7351",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/lore__a44a7351.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_a44a7351.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/lore__a44a7351.md"
+    },
+    {
+      "url": "https://htmx.org/essays/mvc/",
+      "fetch_rel": "fetch/htmx_org_d44eef0b.html",
+      "hash": "d44eef0b",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/mvc__d44eef0b.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_d44eef0b.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/mvc__d44eef0b.md"
+    },
+    {
+      "url": "https://htmx.org/essays/no-build-step/",
+      "fetch_rel": "fetch/htmx_org_e1bc7159.html",
+      "hash": "e1bc7159",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/no-build-step__e1bc7159.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_e1bc7159.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/no-build-step__e1bc7159.md"
+    },
+    {
+      "url": "https://htmx.org/essays/paris-2024-olympics-htmx-network-automation/",
+      "fetch_rel": "fetch/htmx_org_e832ae3d.html",
+      "hash": "e832ae3d",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/paris-2024-olympics-htmx-network-automation__e832ae3d.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_e832ae3d.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/paris-2024-olympics-htmx-network-automation__e832ae3d.md"
+    },
+    {
+      "url": "https://htmx.org/essays/prefer-if-statements/",
+      "fetch_rel": "fetch/htmx_org_e454f9f1.html",
+      "hash": "e454f9f1",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/prefer-if-statements__e454f9f1.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_e454f9f1.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/prefer-if-statements__e454f9f1.md"
+    },
+    {
+      "url": "https://htmx.org/essays/rest-copypasta/",
+      "fetch_rel": "fetch/htmx_org_671b04b8.html",
+      "hash": "671b04b8",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/rest-copypasta__671b04b8.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_671b04b8.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/rest-copypasta__671b04b8.md"
+    },
+    {
+      "url": "https://htmx.org/essays/rest-explained/",
+      "fetch_rel": "fetch/htmx_org_15f929cc.html",
+      "hash": "15f929cc",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/rest-explained__15f929cc.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_15f929cc.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/rest-explained__15f929cc.md"
+    },
+    {
+      "url": "https://htmx.org/essays/right-click-view-source/",
+      "fetch_rel": "fetch/htmx_org_3111e446.html",
+      "hash": "3111e446",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/right-click-view-source__3111e446.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_3111e446.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/right-click-view-source__3111e446.md"
+    },
+    {
+      "url": "https://htmx.org/essays/spa-alternative/",
+      "fetch_rel": "fetch/htmx_org_2378cbc5.html",
+      "hash": "2378cbc5",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/spa-alternative__2378cbc5.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_2378cbc5.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/spa-alternative__2378cbc5.md"
+    },
+    {
+      "url": "https://htmx.org/essays/splitting-your-apis/",
+      "fetch_rel": "fetch/htmx_org_d02c2a9a.html",
+      "hash": "d02c2a9a",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/splitting-your-apis__d02c2a9a.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_d02c2a9a.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/splitting-your-apis__d02c2a9a.md"
+    },
+    {
+      "url": "https://htmx.org/essays/template-fragments/",
+      "fetch_rel": "fetch/htmx_org_37893464.html",
+      "hash": "37893464",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/template-fragments__37893464.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_37893464.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/template-fragments__37893464.md"
+    },
+    {
+      "url": "https://htmx.org/essays/the-fetchening/",
+      "fetch_rel": "fetch/htmx_org_34a9a060.html",
+      "hash": "34a9a060",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/the-fetchening__34a9a060.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_34a9a060.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/the-fetchening__34a9a060.md"
+    },
+    {
+      "url": "https://htmx.org/essays/two-approaches-to-decoupling/",
+      "fetch_rel": "fetch/htmx_org_53955897.html",
+      "hash": "53955897",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/two-approaches-to-decoupling__53955897.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_53955897.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/two-approaches-to-decoupling__53955897.md"
+    },
+    {
+      "url": "https://htmx.org/essays/vendoring/",
+      "fetch_rel": "fetch/htmx_org_b8ede60b.html",
+      "hash": "b8ede60b",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/vendoring__b8ede60b.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_b8ede60b.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/vendoring__b8ede60b.md"
+    },
+    {
+      "url": "https://htmx.org/essays/view-transitions/",
+      "fetch_rel": "fetch/htmx_org_a0f59cb7.html",
+      "hash": "a0f59cb7",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/view-transitions__a0f59cb7.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_a0f59cb7.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/view-transitions__a0f59cb7.md"
+    },
+    {
+      "url": "https://htmx.org/essays/web-security-basics-with-htmx/",
+      "fetch_rel": "fetch/htmx_org_181a255f.html",
+      "hash": "181a255f",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/web-security-basics-with-htmx__181a255f.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_181a255f.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/web-security-basics-with-htmx__181a255f.md"
+    },
+    {
+      "url": "https://htmx.org/essays/webcomponents-work-great/",
+      "fetch_rel": "fetch/htmx_org_d8b58aa9.html",
+      "hash": "d8b58aa9",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/webcomponents-work-great__d8b58aa9.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_d8b58aa9.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/webcomponents-work-great__d8b58aa9.md"
+    },
+    {
+      "url": "https://htmx.org/essays/when-to-use-hypermedia/",
+      "fetch_rel": "fetch/htmx_org_7b95ad50.html",
+      "hash": "7b95ad50",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/when-to-use-hypermedia__7b95ad50.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_7b95ad50.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/when-to-use-hypermedia__7b95ad50.md"
+    },
+    {
+      "url": "https://htmx.org/essays/why-gumroad-didnt-choose-htmx/",
+      "fetch_rel": "fetch/htmx_org_7128c0fb.html",
+      "hash": "7128c0fb",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/why-gumroad-didnt-choose-htmx__7128c0fb.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_7128c0fb.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/why-gumroad-didnt-choose-htmx__7128c0fb.md"
+    },
+    {
+      "url": "https://htmx.org/essays/why-tend-not-to-use-content-negotiation/",
+      "fetch_rel": "fetch/htmx_org_0e760284.html",
+      "hash": "0e760284",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/why-tend-not-to-use-content-negotiation__0e760284.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_0e760284.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/why-tend-not-to-use-content-negotiation__0e760284.md"
+    },
+    {
+      "url": "https://htmx.org/essays/you-cant/",
+      "fetch_rel": "fetch/htmx_org_1b1b07f4.html",
+      "hash": "1b1b07f4",
+      "category": "htmx/essays",
+      "dst_rel": "htmx/essays/you-cant__1b1b07f4.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_1b1b07f4.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/essays/you-cant__1b1b07f4.md"
+    },
+    {
+      "url": "https://htmx.org/events",
+      "fetch_rel": "fetch/htmx_org_1f6576d0.html",
+      "hash": "1f6576d0",
+      "category": "htmx/events",
+      "dst_rel": "htmx/events/index__1f6576d0.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_1f6576d0.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/events/index__1f6576d0.md"
+    },
+    {
+      "url": "https://htmx.org/events/",
+      "fetch_rel": "fetch/htmx_org_25e86e98.html",
+      "hash": "25e86e98",
+      "category": "htmx/events",
+      "dst_rel": "htmx/events/index__25e86e98.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_25e86e98.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/events/index__25e86e98.md"
+    },
+    {
+      "url": "https://htmx.org/examples/active-search/",
+      "fetch_rel": "fetch/htmx_org_422b75bb.html",
+      "hash": "422b75bb",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/active-search__422b75bb.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_422b75bb.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/active-search__422b75bb.md"
+    },
+    {
+      "url": "https://htmx.org/examples/animations",
+      "fetch_rel": "fetch/htmx_org_a91fb047.html",
+      "hash": "a91fb047",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/animations__a91fb047.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_a91fb047.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/animations__a91fb047.md"
+    },
+    {
+      "url": "https://htmx.org/examples/animations/",
+      "fetch_rel": "fetch/htmx_org_d7230534.html",
+      "hash": "d7230534",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/animations__d7230534.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_d7230534.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/animations__d7230534.md"
+    },
+    {
+      "url": "https://htmx.org/examples/async-auth/",
+      "fetch_rel": "fetch/htmx_org_1de4079c.html",
+      "hash": "1de4079c",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/async-auth__1de4079c.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_1de4079c.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/async-auth__1de4079c.md"
+    },
+    {
+      "url": "https://htmx.org/examples/bulk-update/",
+      "fetch_rel": "fetch/htmx_org_3c29c5fd.html",
+      "hash": "3c29c5fd",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/bulk-update__3c29c5fd.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_3c29c5fd.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/bulk-update__3c29c5fd.md"
+    },
+    {
+      "url": "https://htmx.org/examples/click-to-edit/",
+      "fetch_rel": "fetch/htmx_org_2f9cf17e.html",
+      "hash": "2f9cf17e",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/click-to-edit__2f9cf17e.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_2f9cf17e.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/click-to-edit__2f9cf17e.md"
+    },
+    {
+      "url": "https://htmx.org/examples/click-to-load/",
+      "fetch_rel": "fetch/htmx_org_24956e8c.html",
+      "hash": "24956e8c",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/click-to-load__24956e8c.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_24956e8c.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/click-to-load__24956e8c.md"
+    },
+    {
+      "url": "https://htmx.org/examples/confirm/",
+      "fetch_rel": "fetch/htmx_org_f83505b8.html",
+      "hash": "f83505b8",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/confirm__f83505b8.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_f83505b8.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/confirm__f83505b8.md"
+    },
+    {
+      "url": "https://htmx.org/examples/delete-row/",
+      "fetch_rel": "fetch/htmx_org_efa47bd9.html",
+      "hash": "efa47bd9",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/delete-row__efa47bd9.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_efa47bd9.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/delete-row__efa47bd9.md"
+    },
+    {
+      "url": "https://htmx.org/examples/dialogs/",
+      "fetch_rel": "fetch/htmx_org_2197f63a.html",
+      "hash": "2197f63a",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/dialogs__2197f63a.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_2197f63a.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/dialogs__2197f63a.md"
+    },
+    {
+      "url": "https://htmx.org/examples/edit-row/",
+      "fetch_rel": "fetch/htmx_org_22990554.html",
+      "hash": "22990554",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/edit-row__22990554.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_22990554.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/edit-row__22990554.md"
+    },
+    {
+      "url": "https://htmx.org/examples/file-upload-input/",
+      "fetch_rel": "fetch/htmx_org_8136a118.html",
+      "hash": "8136a118",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/file-upload-input__8136a118.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_8136a118.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/file-upload-input__8136a118.md"
+    },
+    {
+      "url": "https://htmx.org/examples/file-upload/",
+      "fetch_rel": "fetch/htmx_org_64a6da72.html",
+      "hash": "64a6da72",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/file-upload__64a6da72.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_64a6da72.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/file-upload__64a6da72.md"
+    },
+    {
+      "url": "https://htmx.org/examples",
+      "fetch_rel": "fetch/htmx_org_1e401a50.html",
+      "hash": "1e401a50",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/index__1e401a50.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_1e401a50.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/index__1e401a50.md"
+    },
+    {
+      "url": "https://htmx.org/examples/",
+      "fetch_rel": "fetch/htmx_org_69633fd4.html",
+      "hash": "69633fd4",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/index__69633fd4.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_69633fd4.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/index__69633fd4.md"
+    },
+    {
+      "url": "https://htmx.org/examples/infinite-scroll/",
+      "fetch_rel": "fetch/htmx_org_18924801.html",
+      "hash": "18924801",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/infinite-scroll__18924801.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_18924801.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/infinite-scroll__18924801.md"
+    },
+    {
+      "url": "https://htmx.org/examples/inline-validation/",
+      "fetch_rel": "fetch/htmx_org_8be1398c.html",
+      "hash": "8be1398c",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/inline-validation__8be1398c.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_8be1398c.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/inline-validation__8be1398c.md"
+    },
+    {
+      "url": "https://htmx.org/examples/keyboard-shortcuts/",
+      "fetch_rel": "fetch/htmx_org_03dbe363.html",
+      "hash": "03dbe363",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/keyboard-shortcuts__03dbe363.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_03dbe363.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/keyboard-shortcuts__03dbe363.md"
+    },
+    {
+      "url": "https://htmx.org/examples/lazy-load/",
+      "fetch_rel": "fetch/htmx_org_31e239c4.html",
+      "hash": "31e239c4",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/lazy-load__31e239c4.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_31e239c4.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/lazy-load__31e239c4.md"
+    },
+    {
+      "url": "https://htmx.org/examples/modal-bootstrap/",
+      "fetch_rel": "fetch/htmx_org_2052d5c2.html",
+      "hash": "2052d5c2",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/modal-bootstrap__2052d5c2.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_2052d5c2.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/modal-bootstrap__2052d5c2.md"
+    },
+    {
+      "url": "https://htmx.org/examples/modal-custom/",
+      "fetch_rel": "fetch/htmx_org_4a481ad7.html",
+      "hash": "4a481ad7",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/modal-custom__4a481ad7.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_4a481ad7.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/modal-custom__4a481ad7.md"
+    },
+    {
+      "url": "https://htmx.org/examples/modal-uikit/",
+      "fetch_rel": "fetch/htmx_org_91236b72.html",
+      "hash": "91236b72",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/modal-uikit__91236b72.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_91236b72.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/modal-uikit__91236b72.md"
+    },
+    {
+      "url": "https://htmx.org/examples/move-before/details",
+      "fetch_rel": "fetch/htmx_org_7c979774.html",
+      "hash": "7c979774",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/move-before-details__7c979774.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_7c979774.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/move-before-details__7c979774.md"
+    },
+    {
+      "url": "https://htmx.org/examples/move-before",
+      "fetch_rel": "fetch/htmx_org_66037075.html",
+      "hash": "66037075",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/move-before__66037075.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_66037075.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/move-before__66037075.md"
+    },
+    {
+      "url": "https://htmx.org/examples/move-before/",
+      "fetch_rel": "fetch/htmx_org_6cabe356.html",
+      "hash": "6cabe356",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/move-before__6cabe356.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_6cabe356.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/move-before__6cabe356.md"
+    },
+    {
+      "url": "https://htmx.org/examples/progress-bar/",
+      "fetch_rel": "fetch/htmx_org_5f6e9d59.html",
+      "hash": "5f6e9d59",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/progress-bar__5f6e9d59.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_5f6e9d59.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/progress-bar__5f6e9d59.md"
+    },
+    {
+      "url": "https://htmx.org/examples/reset-user-input/",
+      "fetch_rel": "fetch/htmx_org_98789463.html",
+      "hash": "98789463",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/reset-user-input__98789463.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_98789463.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/reset-user-input__98789463.md"
+    },
+    {
+      "url": "https://htmx.org/examples/sortable/",
+      "fetch_rel": "fetch/htmx_org_9ab69d26.html",
+      "hash": "9ab69d26",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/sortable__9ab69d26.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_9ab69d26.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/sortable__9ab69d26.md"
+    },
+    {
+      "url": "https://htmx.org/examples/tabs-hateoas/",
+      "fetch_rel": "fetch/htmx_org_b79208cb.html",
+      "hash": "b79208cb",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/tabs-hateoas__b79208cb.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_b79208cb.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/tabs-hateoas__b79208cb.md"
+    },
+    {
+      "url": "https://htmx.org/examples/tabs-javascript/",
+      "fetch_rel": "fetch/htmx_org_60257bda.html",
+      "hash": "60257bda",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/tabs-javascript__60257bda.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_60257bda.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/tabs-javascript__60257bda.md"
+    },
+    {
+      "url": "https://htmx.org/examples/update-other-content/",
+      "fetch_rel": "fetch/htmx_org_3bdfa1fd.html",
+      "hash": "3bdfa1fd",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/update-other-content__3bdfa1fd.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_3bdfa1fd.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/update-other-content__3bdfa1fd.md"
+    },
+    {
+      "url": "https://htmx.org/examples/value-select/",
+      "fetch_rel": "fetch/htmx_org_58ca8dc5.html",
+      "hash": "58ca8dc5",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/value-select__58ca8dc5.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_58ca8dc5.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/value-select__58ca8dc5.md"
+    },
+    {
+      "url": "https://htmx.org/examples/web-components/",
+      "fetch_rel": "fetch/htmx_org_edf35d3d.html",
+      "hash": "edf35d3d",
+      "category": "htmx/examples",
+      "dst_rel": "htmx/examples/web-components__edf35d3d.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_edf35d3d.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/examples/web-components__edf35d3d.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/building/",
+      "fetch_rel": "fetch/htmx_org_5ab5250d.html",
+      "hash": "5ab5250d",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/building__5ab5250d.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_5ab5250d.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/building__5ab5250d.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/building",
+      "fetch_rel": "fetch/htmx_org_a6cd095c.html",
+      "hash": "a6cd095c",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/building__a6cd095c.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_a6cd095c.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/building__a6cd095c.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/head-support",
+      "fetch_rel": "fetch/htmx_org_3f95f077.html",
+      "hash": "3f95f077",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/head-support__3f95f077.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_3f95f077.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/head-support__3f95f077.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/head-support/",
+      "fetch_rel": "fetch/htmx_org_8b636e38.html",
+      "hash": "8b636e38",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/head-support__8b636e38.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_8b636e38.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/head-support__8b636e38.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/htmx-1-compat/",
+      "fetch_rel": "fetch/htmx_org_0bbe697d.html",
+      "hash": "0bbe697d",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/htmx-1-compat__0bbe697d.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_0bbe697d.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/htmx-1-compat__0bbe697d.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/htmx-1-compat",
+      "fetch_rel": "fetch/htmx_org_42b7bb50.html",
+      "hash": "42b7bb50",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/htmx-1-compat__42b7bb50.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_42b7bb50.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/htmx-1-compat__42b7bb50.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/idiomorph/@attributes/hx-swap",
+      "fetch_rel": "fetch/htmx_org_ef157a9f.html",
+      "hash": "ef157a9f",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/idiomorph-attributes-hx-swap__ef157a9f.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_ef157a9f.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/idiomorph-attributes-hx-swap__ef157a9f.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/idiomorph",
+      "fetch_rel": "fetch/htmx_org_0e4b185b.html",
+      "hash": "0e4b185b",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/idiomorph__0e4b185b.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_0e4b185b.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/idiomorph__0e4b185b.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/idiomorph/",
+      "fetch_rel": "fetch/htmx_org_db86b18c.html",
+      "hash": "db86b18c",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/idiomorph__db86b18c.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_db86b18c.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/idiomorph__db86b18c.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/",
+      "fetch_rel": "fetch/htmx_org_6d02a6d8.html",
+      "hash": "6d02a6d8",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/index__6d02a6d8.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_6d02a6d8.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/index__6d02a6d8.md"
+    },
+    {
+      "url": "https://htmx.org/extensions",
+      "fetch_rel": "fetch/htmx_org_a2ba7af1.html",
+      "hash": "a2ba7af1",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/index__a2ba7af1.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_a2ba7af1.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/index__a2ba7af1.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/preload",
+      "fetch_rel": "fetch/htmx_org_5997ff99.html",
+      "hash": "5997ff99",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/preload__5997ff99.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_5997ff99.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/preload__5997ff99.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/preload/",
+      "fetch_rel": "fetch/htmx_org_b444d45e.html",
+      "hash": "b444d45e",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/preload__b444d45e.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_b444d45e.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/preload__b444d45e.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/response-targets",
+      "fetch_rel": "fetch/htmx_org_58b6dde9.html",
+      "hash": "58b6dde9",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/response-targets__58b6dde9.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_58b6dde9.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/response-targets__58b6dde9.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/response-targets/",
+      "fetch_rel": "fetch/htmx_org_a11ef613.html",
+      "hash": "a11ef613",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/response-targets__a11ef613.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_a11ef613.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/response-targets__a11ef613.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/sse",
+      "fetch_rel": "fetch/htmx_org_6b564a68.html",
+      "hash": "6b564a68",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/sse__6b564a68.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_6b564a68.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/sse__6b564a68.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/sse/",
+      "fetch_rel": "fetch/htmx_org_7beb7058.html",
+      "hash": "7beb7058",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/sse__7beb7058.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_7beb7058.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/sse__7beb7058.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/ws",
+      "fetch_rel": "fetch/htmx_org_1247f67e.html",
+      "hash": "1247f67e",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/ws__1247f67e.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_1247f67e.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/ws__1247f67e.md"
+    },
+    {
+      "url": "https://htmx.org/extensions/ws/",
+      "fetch_rel": "fetch/htmx_org_7b11dde6.html",
+      "hash": "7b11dde6",
+      "category": "htmx/extensions",
+      "dst_rel": "htmx/extensions/ws__7b11dde6.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_7b11dde6.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/extensions/ws__7b11dde6.md"
+    },
+    {
+      "url": "https://htmx.org/headers/hx-location/",
+      "fetch_rel": "fetch/htmx_org_ce2b9508.html",
+      "hash": "ce2b9508",
+      "category": "htmx/headers",
+      "dst_rel": "htmx/headers/hx-location__ce2b9508.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_ce2b9508.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/headers/hx-location__ce2b9508.md"
+    },
+    {
+      "url": "https://htmx.org/headers/hx-push-url/",
+      "fetch_rel": "fetch/htmx_org_2dcef3eb.html",
+      "hash": "2dcef3eb",
+      "category": "htmx/headers",
+      "dst_rel": "htmx/headers/hx-push-url__2dcef3eb.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_2dcef3eb.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/headers/hx-push-url__2dcef3eb.md"
+    },
+    {
+      "url": "https://htmx.org/headers/hx-redirect/",
+      "fetch_rel": "fetch/htmx_org_75efc359.html",
+      "hash": "75efc359",
+      "category": "htmx/headers",
+      "dst_rel": "htmx/headers/hx-redirect__75efc359.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_75efc359.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/headers/hx-redirect__75efc359.md"
+    },
+    {
+      "url": "https://htmx.org/headers/hx-replace-url/",
+      "fetch_rel": "fetch/htmx_org_b54afe62.html",
+      "hash": "b54afe62",
+      "category": "htmx/headers",
+      "dst_rel": "htmx/headers/hx-replace-url__b54afe62.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_b54afe62.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/headers/hx-replace-url__b54afe62.md"
+    },
+    {
+      "url": "https://htmx.org/headers/hx-trigger/",
+      "fetch_rel": "fetch/htmx_org_a868119d.html",
+      "hash": "a868119d",
+      "category": "htmx/headers",
+      "dst_rel": "htmx/headers/hx-trigger__a868119d.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_a868119d.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/headers/hx-trigger__a868119d.md"
+    },
+    {
+      "url": "https://htmx.org/headers/",
+      "fetch_rel": "fetch/htmx_org_7298870b.html",
+      "hash": "7298870b",
+      "category": "htmx/headers",
+      "dst_rel": "htmx/headers/index__7298870b.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_7298870b.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/headers/index__7298870b.md"
+    },
+    {
+      "url": "https://htmx.org/reference",
+      "fetch_rel": "fetch/htmx_org_777e94b6.html",
+      "hash": "777e94b6",
+      "category": "htmx/reference",
+      "dst_rel": "htmx/reference/index__777e94b6.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_777e94b6.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/reference/index__777e94b6.md"
+    },
+    {
+      "url": "https://htmx.org/reference/",
+      "fetch_rel": "fetch/htmx_org_8949c2d3.html",
+      "hash": "8949c2d3",
+      "category": "htmx/reference",
+      "dst_rel": "htmx/reference/index__8949c2d3.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_8949c2d3.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/reference/index__8949c2d3.md"
+    },
+    {
+      "url": "https://htmx.org/talk/",
+      "fetch_rel": "fetch/htmx_org_60266895.html",
+      "hash": "60266895",
+      "category": "htmx/talk",
+      "dst_rel": "htmx/talk/index__60266895.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/htmx_org_60266895.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/htmx/talk/index__60266895.md"
+    },
+    {
+      "url": "https://www.rfc-editor.org/rfc/rfc9110.html",
+      "fetch_rel": "fetch/rfc-editor_org_b1b13a12.html",
+      "hash": "b1b13a12",
+      "category": "rfc",
+      "dst_rel": "rfc/rfc9110-http-semantics__b1b13a12.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/rfc-editor_org_b1b13a12.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/rfc/rfc9110-http-semantics__b1b13a12.md"
+    },
+    {
+      "url": "https://www.rfc-editor.org/rfc/rfc9110",
+      "fetch_rel": "fetch/rfc-editor_org_e593c606.html",
+      "hash": "e593c606",
+      "category": "rfc",
+      "dst_rel": "rfc/rfc9110-http-semantics__e593c606.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/rfc-editor_org_e593c606.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/rfc/rfc9110-http-semantics__e593c606.md"
+    },
+    {
+      "url": "https://www.rfc-editor.org/rfc/rfc9113",
+      "fetch_rel": "fetch/rfc-editor_org_19b1c63f.html",
+      "hash": "19b1c63f",
+      "category": "rfc",
+      "dst_rel": "rfc/rfc9113-http2__19b1c63f.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/rfc-editor_org_19b1c63f.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/rfc/rfc9113-http2__19b1c63f.md"
+    },
+    {
+      "url": "https://www.rfc-editor.org/rfc/rfc9114",
+      "fetch_rel": "fetch/rfc-editor_org_779be9a2.html",
+      "hash": "779be9a2",
+      "category": "rfc",
+      "dst_rel": "rfc/rfc9114-http3__779be9a2.md",
+      "src_abs": "/home/zack/dev/htmx-docs/fetch/rfc-editor_org_779be9a2.html",
+      "dst_abs": "/home/zack/dev/htmx-docs/rfc/rfc9114-http3__779be9a2.md"
+    }
+  ]
+}
