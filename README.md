@@ -19,6 +19,11 @@ This repository contains a curated, recursively crawled (depth 2) HTMX documenta
 - `manifests/` URL-to-file mapping and conversion metadata
 - `fetch/` raw crawler cache (not tracked in git)
 
+## Internal Index
+
+- Full internal source-to-doc mapping: `INDEX.md`
+- Detailed manifest map: `manifests/organized_docs_map.md`
+
 ## Naming Convention
 
 Each markdown file name includes context plus the original fetch hash suffix:
@@ -46,4 +51,3 @@ The hash suffix allows deterministic rescans and straightforward source correlat
 - HTMX docs: 169
 - GitHub docs: 65
 - RFC docs: 4
-
