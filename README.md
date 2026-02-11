@@ -13,9 +13,7 @@ This repository contains a curated, recursively crawled (depth 2) HTMX documenta
 
 ## Folder Layout
 
-- `htmx/` HTMX domain documents by section
-- `github/` Big Sky Software repository documents by repo
-- `rfc/` RFC documents
+- `docs/` all corpus documents in a single flattened folder
 - `manifests/` URL-to-file mapping and conversion metadata
 - `fetch/` raw crawler cache (not tracked in git)
 
@@ -26,15 +24,15 @@ This repository contains a curated, recursively crawled (depth 2) HTMX documenta
 
 ## Naming Convention
 
-Each markdown file name includes context plus the original fetch hash suffix:
+Each markdown file name includes flattened context plus the original fetch hash suffix:
 
-- `<context>__<hash>.md`
+- `<source>-<category>-<doc-name>__<hash>.md`
 
 Examples:
 
-- `htmx/attributes/hx-get__119edf64.md`
-- `github/htmx/blob-master-readme-md__6361b3d4.md`
-- `rfc/rfc9110-http-semantics__e593c606.md`
+- `docs/htmx-attributes-hx-get__119edf64.md`
+- `docs/github-htmx-blob-master-readme-md__6361b3d4.md`
+- `docs/rfc-rfc9110-http-semantics__e593c606.md`
 
 The hash suffix allows deterministic rescans and straightforward source correlation.
 
